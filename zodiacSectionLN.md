@@ -42,7 +42,10 @@ elif z % 12 == 10:
 else:
     print("Your Chinese Zodiac Sign is: Pig (猪 / Zhū) ")
 ## Screenshots of the output
-
+![Output 1](./Screenshot%202026-08-09%20155842.png)
+![Output 2](./Screenshot%202026-08-09%20155907.png)
+![Output 3](./Screenshot%202026-08-09%20160039.png)
+![Output 4](./Screenshot%202026-08-09%20160113.png)
 
 
 
