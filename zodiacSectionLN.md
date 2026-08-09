@@ -1,4 +1,18 @@
+## Submission requirements
+Test and run your program before submission.
+Create zodiacSectionLN.md containing:
+Problem requirements
+Your source code
+Screenshot of the output
+Update your README.md with links to the activity files.
+Commit and push your work to GitHub.
+Submit both:
+Live code link
+Git repository link
 
+
+
+##Source code
 by = int(input("Enter your birth year:"))
 z = by - 1900
 if by < 1900:
@@ -27,4 +41,6 @@ elif z % 12 == 10:
     print("Your Chinese Zodiac Sign is: Dog (狗 / Gǒu)")
 else:
     print("Your Chinese Zodiac Sign is: Pig (猪 / Zhū) ")
+
+
 
