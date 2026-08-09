@@ -41,6 +41,7 @@ elif z % 12 == 10:
     print("Your Chinese Zodiac Sign is: Dog (狗 / Gǒu)")
 else:
     print("Your Chinese Zodiac Sign is: Pig (猪 / Zhū) ")
+## Screenshots of the output
 
 
 
